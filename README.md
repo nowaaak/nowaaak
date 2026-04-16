@@ -1,54 +1,93 @@
-**Software Developer (Java | Spring Boot | React)**
+<p align="center">
+  <strong>Software Developer</strong> • Java • Spring Boot • React • TypeScript
+</p>
 
-I'm a software developer in training with hands-on experience in building modern web applications and automation solutions.
-
-My focus is on developing scalable full-stack applications using **Java (Spring Boot)**, **React**, and **TypeScript**, combined with practical experience in **IT infrastructure** and **process automation**.
-
----
-
-## 🧠 Tech Stack
-
-- Java  
-- Spring Boot  
-- React  
-- TypeScript  
-- REST APIs  
-- PowerShell  
-- Microsoft 365  
-- Active Directory  
+<p align="center">
+  <a href="mailto:nxwaaak@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
+  </a>
+</p>
 
 ---
 
-## 💻 What I Do
+<h2>About Me</h2>
 
-- Build full-stack web applications  
-- Develop internal tools and automation solutions  
-- Design and implement REST APIs  
-- Improve and automate business processes  
+<p>
+  I'm a software developer in training with hands-on experience in building
+  <strong>modern web applications</strong> and <strong>automation solutions</strong>.
+</p>
 
----
-
-## 🚀 Featured Projects
-
-### 📌 InvestFlow (Full-Stack App)
-Full-stack application built with Spring Boot & React to digitize internal processes and reduce manual workflows.
-
-### 📌 Spring Boot REST API
-Backend project focusing on clean architecture, API design, and error handling.
-
-### 📌 Automation Scripts
-PowerShell scripts for automating repetitive IT and business processes.
+<p>
+  My main focus is on developing scalable full-stack applications using
+  <strong>Java (Spring Boot)</strong>, <strong>React</strong>, and <strong>TypeScript</strong>.
+  I also bring practical experience in <strong>IT infrastructure</strong>,
+  <strong>process automation</strong>, and internal business tools.
+</p>
 
 ---
 
-## 🎯 Current Focus
+<h2>Tech Stack</h2>
 
-- Full-Stack Development  
-- Backend (Java & Spring Boot)  
-- Automation & Process Optimization  
+<p>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/REST_API-111111?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/PowerShell-111111?style=for-the-badge&logo=powershell&logoColor=5391FE" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/Microsoft_365-111111?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft 365" />
+  <img src="https://img.shields.io/badge/Active_Directory-111111?style=for-the-badge&logo=windows&logoColor=white" alt="Active Directory" />
+</p>
 
 ---
 
-## 📍 About Me
+<h2>What I Do</h2>
 
-- Based in Germany  
+<ul>
+  <li>Build full-stack web applications</li>
+  <li>Develop internal tools and automation solutions</li>
+  <li>Design and implement REST APIs</li>
+  <li>Improve and automate business processes</li>
+</ul>
+
+---
+
+<h2>Featured Projects</h2>
+
+<table>
+  <tr>
+    <td width="33%">
+      <h3>InvestFlow</h3>
+      <p>Full-stack application built with Spring Boot and React to digitize internal processes and reduce manual workflows.</p>
+    </td>
+    <td width="33%">
+      <h3>Spring Boot REST API</h3>
+      <p>Backend-focused project with clean architecture, structured endpoints, and solid error handling.</p>
+    </td>
+    <td width="33%">
+      <h3>Automation Scripts</h3>
+      <p>PowerShell-based automation scripts for repetitive IT and operational tasks.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2>Current Focus</h2>
+
+<p>
+  Full-Stack Development • Backend with Java & Spring Boot • Automation & Process Optimization
+</p>
+
+---
+
+<details>
+  <summary><strong>More about me</strong></summary>
+  <br />
+  <ul>
+    <li>Based in Germany</li>
+  </ul>
+</details>
