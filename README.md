@@ -13,7 +13,7 @@
 <h2>About Me</h2>
 
 <p>
-  I'm a software developer in training with hands-on experience in building
+  I'm a software developer with hands-on experience in building
   <strong>modern web applications</strong> and <strong>automation solutions</strong>.
 </p>
 
